@@ -1,0 +1,6 @@
+{
+  "name": "Data Leakage Detection System",
+  "description": "Enterprise Data Leakage Detection & DLP System with real-time text extraction, PII & keyword pattern scanning, risk scoring, alert management, audit logs, and Java Spring Boot code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
